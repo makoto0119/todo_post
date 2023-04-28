@@ -19,7 +19,7 @@ if count == 0 :
 	input ()
 	exit()
 
-api = TodoistAPI("7b1a925495c9af66a52e0a1883037e4dc6ce03a9")
+api = TodoistAPI(" ここに、ユーザ毎のコードを入れて下さい")
 
 #priority = 1 だと優先度4 、4だと優先度1 なぜか逆
 # https://developer.todoist.com/rest/v2/?python#create-a-new-task
